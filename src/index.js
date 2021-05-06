@@ -1,4 +1,4 @@
-alert("Hello from webpack!");
+import "./main.css";
 import { run } from "./app/app";
 import { AlertService } from "./app/alert.service";
 import { ComponentService } from "./app/component.service";
